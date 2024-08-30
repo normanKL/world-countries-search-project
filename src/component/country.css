@@ -1,0 +1,27 @@
+#countryFlag {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    height: auto;
+    margin-top: 40px;
+}
+
+#countryFlag span {
+    font-size: 4em;
+    padding-left: 20px;
+}
+
+#countryFlag p {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: start;
+    margin-left: 20px;
+    color: gray;
+}
+
+
+.countryInfo{
+    padding-left: 30px;
+    padding-bottom: 30px;
+ 
+}

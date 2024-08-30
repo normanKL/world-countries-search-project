@@ -1,0 +1,50 @@
+body {
+    background-image: url(./images/pexels-chris-schippers-139261-421927.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    /* border: 3px solid white; */
+    width: 700px;
+    height: 70px;
+    text-align: center;
+    font-weight: 900;
+
+}
+
+form{
+   /* border: 3px solid white; */
+   text-align: center;
+}
+
+input {
+    margin-right: 15px;
+    color: black;
+    font-size: 20px;
+    background-color: white ;
+    /* border: 2px solid white; */
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+}
+
+button {
+    margin-left: 15px;
+}
+
+#countryInfoCard {
+    max-width: 710px;
+    max-height: auto;
+    font-size: 25px;
+    font-weight: 600;
+    color: gray;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+}
