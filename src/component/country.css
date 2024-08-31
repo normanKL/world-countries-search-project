@@ -16,12 +16,13 @@
     font-weight: 900;
     text-align: start;
     margin-left: 20px;
-    color: gray;
+    color: rgb(84, 83, 83);
 }
 
 
 .countryInfo{
     padding-left: 30px;
     padding-bottom: 30px;
+    margin: 0;
  
 }
