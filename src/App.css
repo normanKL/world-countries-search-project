@@ -16,6 +16,7 @@ h1{
     height: 70px;
     text-align: center;
     font-weight: 900;
+    color: white;
 
 }
 
@@ -37,6 +38,8 @@ input {
 
 button {
     margin-left: 15px;
+    color: white;
+    background-color: #293241;
 }
 
 #countryInfoCard {
